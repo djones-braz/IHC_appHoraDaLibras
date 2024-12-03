@@ -1,0 +1,33 @@
+(Transcrição da Pesquisa sobre IHC)
+
+Boa noite. Você assinou o termo de consentimento? Sim. Então, qualquer momento que você quiser interromper essa pesquisa, você fica à vontade. 
+
+Se você não quiser, seus dados também não vão ser utilizados. Você permite que nós utilizemos seus dados para pesquisa? Sim. Permite divulgação? Sim.
+
+Então, tudo bem. Sessão 1. Identificação. Opcional. 
+
+Seu nome? Entrevistado 3. Relação com a criança usuária? Mãe. Experiência prévia com aplicativos educacionais? Moderada.
+
+Sessão 2. Configuração e navegação inicial. O processo de login foi intuitivo? Explique qual a dificuldade encontrada, se você encontrou alguma. Foi intuitivo.
+
+Os ícones e textos da tela inicial são claros e compreensíveis? É explícito? Sim. Você consegue localizar rapidamente as opções principais? Exemplo, frase, configuração, relatório? Sim. Sessão 3. Interação durante as atividades.
+
+As instruções para cada atividade são suficientes para orientar uma criança? Sim. A criança conseguiu compreender e interagir com os ícones e figuras apresentadas? Foi explícito? Sim. Houve momentos em que você precisou intervir para ajudar uma criança? Caso afirmativo? Descreva.
+
+Não. Você encontrou alguma barreira ao tentar corrigir o erro de uma criança? Se sim, qual? Ao errar e tentar corrigir, o aplicativo não retorna. Sessão 4. Feedback sobre as tarefas do usuário supervisor.
+
+Como foi o processo de selecionar e iniciar uma atividade para uma criança? Alguma dificuldade? Nenhuma. Durante a sessão, você sentiu que as ferramentas disponíveis, ícones, botões, relatórios, eram suficientes para monitorar o progresso de uma criança? Foi explícito? Sim. Há opção de avançar ou voltar para as telas anteriores, trabalhadas conforme esperado? Algum problema? Teve problemas sim, no retorno. 
+
+Ao tentar corrigir, o aplicativo não retorna. Não houve feedback do aplicativo sobre o desempenho da criança? Foi explícito? Sim. Existe um feedback ao final de todas as etapas, na qual tem um ranking de pontuação e classificação.
+
+Sessão 5. Avaliação heurística prática. O status do andamento das fases ficou visível e claro? Sim. A correspondência entre o sistema e o mundo real, exemplo, associações de figuras e contextos, foi satisfatória? Sim. 
+
+Justifique. Bem ilustrativo e colorido. O modelo na causa de ilustrações do vídeo também se expressa bem de forma clara e objetiva, com sinais em livros.
+
+Você observa a consistência no design das telas e padrão do aplicativo? Sim. Houve situação em que uma criança ou você cometeu erros? Como o aplicativo lidou com eles, caso houve? Houve momentos em que aconteceu um erro e o aplicativo não dava retorno para corrigir ou mesmo para posteriormente o aprendizado do jogador corrigir. O design minimalista contribuiu para uma navegação mais fácil? O elemento visual foi confuso ou desnecessário? Não.
+
+Você sente falta de alguma opção de ajuda ou documentação ao usar o aplicativo? Percebi momentos de repetição nas etapas. Apenas mudava as figuras, mas se repetia a mesma forma na etapa. Em uma escala de 1 a 5, qual a satisfação geral com o aplicativo em relação à usabilidade? Sim.
+
+Liste 3 pontos positivos que você encontrou no aplicativo. Visual, organização e pontuação final. Liste 3 pontos que poderiam ser melhorados.
+
+Retorno para sair e voltar nas etapas paradas, menos repetição de fases, mais sinais variados como matemática e geografia, história para localizar, figuras em livros. Há algo que você gostaria de adicionar em sua experiência com o aplicativo? Ótima iniciativa para que os amigos e familiares também possam aprender a linguagem de sinais. Muito obrigado. 

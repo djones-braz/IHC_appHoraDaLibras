@@ -1,0 +1,39 @@
+(Transcrição da Pesquisa sobre IHC)
+
+Boa noite. Boa noite. Você assinou o termo de consentimento? Sim.
+
+Sim? Então, deixa eu te perguntar. A qualquer momento que você quiser parar essa pesquisa, é só você falar que a gente vai estar parando. E também, se você quiser suspender os dados, é só falar que nenhum dado vai ficar anônimo e não vai ser publicado.
+
+Você autoriza a participar dessa pesquisa? Autorizo. Você autoriza a publicação dos dados científicos para estudo? Sim. Beleza.
+
+Então, vamos lá. Sessão 1. Identificação. O nome é opcional.
+
+Qual é o seu nome? Entrevistado 5. Relação com a criança usuária? Cunhado. Experiência prévia com aplicativos educacionais? Extensa.
+
+E com aplicativos em Libra? Nenhuma. Sessão 2. Configuração e navegação inicial. O processo de login foi intuitivo? Sim.
+
+Explique se você teve alguma dificuldade. Sim, foi intuitivo. Os ícones e texto da tela inicial são claros e compreensíveis? Explícito? Sim.
+
+Você conseguiu localizar rapidamente as opções principais? Exemplo, frases, configurações, relatórios? Sim. Sessão 3. Interação durante as atividades. As instruções para cada atividade são suficientes para orientar uma criança? Não.
+
+A criança conseguiu compreender e interagir com os ícones e figuras apresentados? Explícito? Sim. Houve momentos em que você precisou intervir para ajudar uma criança? Caso afirmativo, descrevo. Não.
+
+Você encontrou alguma barreira ao tentar corrigir o erro de uma criança? Se sim, qual? Não. Sessão 4. Feedback sobre as tarefas do usuário supervisor. Como foi o processo de selecionar e iniciar uma atividade para a criança? Alguma dificuldade? Fácil.
+
+Nenhuma dificuldade. Durante a sessão, você sentiu que as ferramentas disponíveis, ícones, botões, relatórios, eram suficientes para monitorar o processo de uma criança? Explícito? Não. Falta um HUD para auxiliar.
+
+A opção de avançar ou voltar para as telas anteriores trabalhada conforme esperado. Você teve algum problema? Sim. Sem problemas.
+
+Não houve feedback do aplicativo sobre o desemprego da criança? Foi explícito? Houve. Sessão 5. Avaliação heurística prática. O status do andamento das fases ficou visível e claro? Não muito.
+
+A correspondência entre o sistema e o mundo real, exemplo, associação de figuras e contexto, foi satisfatória? Sim. Havia correspondência. Você observa consistência no design das telas e o padrão do aplicativo? Caso não, descreva as inconsistências.
+
+É consistente, porém muito simples. Houve situações em que uma criança ou você cometeu erro? Não. O design minimalista contribuiu para uma navegação mais fácil? Algum elemento visual foi confuso ou desnecessário? Sim, não houve confusão.
+
+Você sente falta de alguma opção de ajuda ou documentação ao usar o aplicativo? Sim. Qual? Falta um HUD e falta colocar mais informação na tela. Sessão 6. Feedback geral.
+
+Em uma escala de 1 a 5, qual a sua satisfação geral com o aplicativo em relação à usabilidade? 4. Liste 3 pontos positivos que você encontrou no aplicativo. Simplicidade, objetividade e qualidade. Liste 3 pontos que poderiam ser melhorados.
+
+Só citei dois. Muito simples e falta de ajuda para o educador. Há algo que você gostaria de adicionar em sua experiência com o aplicativo? Não.
+
+Muito obrigado. Boa noite.

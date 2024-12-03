@@ -1,0 +1,33 @@
+(Transcrição da Pesquisa sobre IHC)
+
+Boa noite. Então, você assinou o termo de consentimento? Sim, assinei. A qualquer momento, caso você queira interromper essa pesquisa, fique à vontade, você pode falar.
+
+Caso você também não queira, a gente não vai utilizar os dados e fica sigiloso. Então, deixa eu te perguntar. Podemos utilizar esses dados para pesquisa? Pode.
+
+Beleza. Podemos utilizar esses dados para demonstração? Sim. Então, ok.
+
+Sessão 1. Identificação. É opcional. Seu nome? Entrevistado 4.
+
+Relação com a criança usuária? Pai. Experiência prévia com aplicativos educacionais? Pouco. Sessão 2. Configuração e navegação inicial. 
+
+O processo de login foi intuitivo? Sim. Os ícones e textos da tela inicial são claros e compreensíveis? Sim. Você conseguiu localizar rapidamente as opções principais? Exemplo, frase, configurações e relatório? Sim, consegui.
+
+Sessão 3. Interação durante as atividades. As instruções para cada atividade são suficientes para orientar uma criança? Sim. A criança conseguiu compreender e interagir com os ícones e figuras apresentadas de forma explícita? Sim.
+
+Houve momentos em que você precisou intervir para ajudar uma criança? Não. Você encontrou alguma barreira ao tentar corrigir um erro da criança? Não há um retorno quando se tenta corrigir. Sessão 4. Feedback sobre as tarefas do usuário supervisor. 
+
+Como foi o processo de selecionar e iniciar uma atividade para a criança? Não houve dificuldade. Durante a sessão, você sentiu que as ferramentas disponíveis, ícones, botões e relatórios eram suficientes para monitorar o progresso da criança? Sim. Há opção de avançar ou voltar para as telas anteriores, trabalhadas conforme o esperado? Não há opção de retorno.
+
+Não houve feedback do aplicativo sobre o desempenho da criança? Sim. Ao final, há feedback das etapas? Não. Sessão 5. Avaliação jurídica prática. 
+
+O status do andamento das frases ficou visível e claro? Sim. A correspondência entre o sistema e o mundo real, exemplo, a associação das figuras, o contexto, foi satisfatória? Sim. Você observa a consistência do design das telas e o padrão do aplicativo, se não descreva as inconsistências? Sim.
+
+Houve situações em que uma criança ou você cometeu erros? Como o aplicativo lidou com eles? Sim. Não há opção para corrigir tal erro. O design minimalista contribuiu para uma navegação mais fácil? Algum elemento visual foi confuso ou desnecessário? Não.
+
+Você sente falta de alguma opção de ajuda ou documentação ao usar o aplicativo? Sim. Justamente, não há o ícone ajuda. Sessão 6. Feedback geral. 
+
+Em uma escala de 1 a 5, qual a satisfação geral com o aplicativo em relação à usabilidade? Escala 4. Liste 3 pontos positivos que você encontrou no aplicativo. Organizado, visual, pontuação. Liste 3 pontos que poderiam ser melhorados.
+
+Pode ser 1, 2, quantos você achar. Ajuda ou o ícone ajuda. Há algo que você gostaria de adicionar ou relatar a sua experiência com o aplicativo? Não.
+
+Muito obrigado. Boa noite. Boa noite.
